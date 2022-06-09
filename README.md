@@ -2,7 +2,7 @@
 
 ---------------
 
-Voici une animation CSS de plusieus oiseaux volants.
+Voici une animation CSS de plusieurs oiseaux volants.
 
 Suvie d'une page HTML permettant de visualiser l'animation.
 
